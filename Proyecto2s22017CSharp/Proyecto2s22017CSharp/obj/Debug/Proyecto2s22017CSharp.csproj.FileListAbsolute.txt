@@ -1,0 +1,9 @@
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\bin\Debug\Proyecto2s22017CSharp.exe.config
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\bin\Debug\Proyecto2s22017CSharp.exe
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\bin\Debug\Proyecto2s22017CSharp.pdb
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\obj\Debug\Proyecto2s22017CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\obj\Debug\Proyecto2s22017CSharp.Admin.resources
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\obj\Debug\Proyecto2s22017CSharp.Properties.Resources.resources
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\obj\Debug\Proyecto2s22017CSharp.csproj.GenerateResource.Cache
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\obj\Debug\Proyecto2s22017CSharp.exe
+C:\Users\Estuardo\Documents\NetBeansProjects\Proyecto2s22017\Proyecto2s22017CSharp\Proyecto2s22017CSharp\obj\Debug\Proyecto2s22017CSharp.pdb

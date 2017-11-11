@@ -1,0 +1,9 @@
+digraph Usuarios{
+nodo_0[label = "marco"] 
+nodo_1[label = "rene"] 
+nodo_2[label = "edgar"] 
+nodo_0->nodo_1
+nodo_1->nodo_0
+nodo_1->nodo_2
+nodo_2->nodo_1
+}

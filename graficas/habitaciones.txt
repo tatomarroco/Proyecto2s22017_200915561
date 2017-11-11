@@ -1,0 +1,18 @@
+digraph Habitaciones{
+nodo_0[label = "Nivel 2\nNumero 65\n265\nfalse"] 
+nodo_1[label = "Nivel 5\nNumero 20\n520\nfalse"] 
+nodo_2[label = "Nivel 7\nNumero 15\n715\ntrue"] 
+nodo_3[label = "Nivel 8\nNumero 45\n845\ntrue"] 
+nodo_4[label = "Nivel 3\nNumero 25\n325\nfalse"] 
+nodo_5[label = "Nivel 1\nNumero 18\n118\nfalse"] 
+nodo_6[label = "Nivel 4\nNumero 96\n496\nfalse"] 
+nodo_7[label = "Nivel 3\nNumero 12\n312\nfalse"] 
+nodo_0->nodo_1
+nodo_1->nodo_2
+nodo_2->nodo_3
+nodo_3->nodo_4
+nodo_4->nodo_5
+nodo_5->nodo_6
+nodo_6->nodo_7
+nodo_7->nodo_0
+}

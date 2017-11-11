@@ -1,0 +1,10 @@
+nav.navbar.navbar-inverse{
+  position:relative;
+  min-height:50px;
+  margin-bottom:20px;
+  background-color:#9c1212;
+  background-image:-webkit-linear-gradient(top, #d83942 0%, #d61f29 100%);
+  background-image:-webkit-gradient(linear, left top, left bottom, from(#d83942), to(#d61f29));
+  background-image:linear-gradient(to bottom, #d83942 0%, #d61f29 100%);
+}
+
