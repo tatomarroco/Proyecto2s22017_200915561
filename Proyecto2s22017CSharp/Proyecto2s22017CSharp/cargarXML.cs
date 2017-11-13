@@ -209,6 +209,7 @@ namespace Proyecto2s22017CSharp
                     var respuestaConvertidaString = Encoding.Default.GetString(respuestaMetodo);
                     result = MessageBox.Show("Reservacion Insertada", "Sistema");
                     Console.WriteLine(respuestaConvertidaString);
+                    variablesAEnviar["fechadev"] = "";
                 }
                 else {
                     result = MessageBox.Show("Entró SIN Fecha de Devolucion", "Sistema Informa");

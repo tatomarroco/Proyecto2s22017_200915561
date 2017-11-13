@@ -86,9 +86,9 @@ class pruebas():
                 total = "1700"
                 tarjeta = "12345"
                 fechaOc = ""
-                bitacora.crearNodoInsertar(31122017, usuario, "218", total,tarjeta,"31122017")
+                bitacora.crearNodoInsertar(31122017, "marco", "218", total,tarjeta,"31122017")
                 bitacora.crearNodoInsertar(30042016, usuario, "320", total,tarjeta,"30042016","03052016")
-                bitacora.crearNodoInsertar(29032018, usuario, "135", total,tarjeta,"29032018")
+                bitacora.crearNodoInsertar(29032018, "juan", "135", total,tarjeta,"29032018")
                 bitacora.crearNodoInsertar(28022017, usuario, "450", total,tarjeta,"28022017","05022017")
                 bitacora.crearNodoInsertar(15092019, usuario, "862", total,tarjeta,"15092019")
                 graficaAB = bitacora.graficar()
@@ -96,5 +96,8 @@ class pruebas():
             if opcion == 5:
                 grafica = calendario.graficar()
                 print grafica
+            if opcion == 6:
+                cadena = bitacora.BuscarNodo("tato")
+                print cadena
         except:
             print "Ocurrio un Error"

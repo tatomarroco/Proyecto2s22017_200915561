@@ -272,4 +272,16 @@ class ArbolB:
 					self.InsertarNodosLista(nodo.ramas[j])
 					j+=1
 					
+					
+	def BuscarNodo(self, nombre):
+		self.InsertarNodosLista(self.inicio)
+		raizLista = ListaParaB.retornarLista()
+		nodos = ""
+		while (raizLista != None):
+			if (raizLista.index != None and raizLista.nodoArbolB.Usuario == nombre):
+				nodos += str(raizLista.nodoArbolB.Habitacion) + ","
+			raizLista = raizLista.siguiente
+		ListaParaB.Limpiar()
+		return str(nodos)	
+					
 								
